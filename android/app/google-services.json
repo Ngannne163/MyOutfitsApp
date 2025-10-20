@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "375730189357",
+    "project_id": "myoutfits-937e9",
+    "storage_bucket": "myoutfits-937e9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375730189357:android:6767efb41d65e7a37cb4a4",
+        "android_client_info": {
+          "package_name": "com.example.my_outfits"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_AFIm_hIIVaD4M4Snzo8bn-6BLE4lxis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
