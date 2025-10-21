@@ -1,5 +1,9 @@
 # 👗 My Outfits App.
 My Outfits là một ứng dụng mạng xã hội thời trang được xây dựng bằng Flutter và Firebase, cho phép người dùng chia sẻ, khám phá và tìm cảm hứng phối đồ.
+<p align="center">
+  <img width="150" height="150" alt="logo" src="https://github.com/user-attachments/assets/810c9500-0b83-4879-898c-c684aa6ab1a0" />
+</p>
+
 ## 🌟 Tính năng nổi bật
 
 - 👕 **Xác thực người dùng**: Đăng nhập và đăng ký bằng Email hoặc Google (Firebase Authentication).  
